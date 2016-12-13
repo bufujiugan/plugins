@@ -1,0 +1,15 @@
+此项目为工具项目：
+1.常用工具类
+	1) 时间操作   ------------------	DateUtil.java
+	2) 发送http请求  -------------- HttpUtil.java
+	3) 读取property配置文件 	------- Propertie.java
+	4) 文件操作类   ---------------- 	FileUtil.java
+	5) 上传   --------------------	Upload.java
+2.常用插件配置
+	1) ueditor编辑器       WebRoot --------->  ueditor 与  ueditor.jsp
+	2) echarts统计图表   WebRoot --------->  echarts
+	2) 百度地图API     WebRoot --------->  baiduMapAPI   注意要修改成自己的ak  
+		官网:http://lbsyun.baidu.com/index.php?title=jspopular  可能需要多个示例整合才能实现你得功能(读懂js就好)
+3.页面jquery操作
+	见 jquery常用方法.doc 文件
+	
